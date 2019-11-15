@@ -7,3 +7,4 @@ Introduction to computer science assignment
 3. Average - claculates the average of the surrounding pixels for each pixel
 4. Negative - changes each pixel to the delta between the original value and 255
 
+language: C
